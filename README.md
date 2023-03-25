@@ -1,12 +1,11 @@
 # Capstone 2
-==============================
 A data science project, as part of the Springboard Data Science Career Track
 
 ## Supporting Documentation
 
-- [Project Description](https://docs.google.com/document/d/18i-UddwG9VteV2wR1mzfab5kPxqrUsHhj6gSqyuHCks/edit?usp=sharing)
+- [Project Proposal](https://docs.google.com/document/d/18i-UddwG9VteV2wR1mzfab5kPxqrUsHhj6gSqyuHCks/edit?usp=sharing)
 
-Project Organization
+## Project Organization
 ------------
 
     ├── LICENSE
